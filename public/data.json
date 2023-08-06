@@ -4,8 +4,8 @@
         "name": "On The Road",
         "autor": "Jack Kerouac",
         "Price": 10,
-        "img": "https://i.pinimg.com/564x/b3/a0/1a/b3a01aa1f32aa6ccacbe75e4b876798d.jpg"
-        
+        "img": "https://i.pinimg.com/564x/b3/a0/1a/b3a01aa1f32aa6ccacbe75e4b876798d.jpg",
+        "quanty": 1
     },
 
     {
@@ -13,16 +13,16 @@
         "name": "The Subterraneans",
         "autor": "Jack Kerouac",
         "Price": 20,
-        "img":"http://www.mardecortesbaja.com/KerouacSubterraneansCoverBaja.JPG"
-        
+        "img":"http://www.mardecortesbaja.com/KerouacSubterraneansCoverBaja.JPG",
+        "quanty": 1
     },
     {
         "id": 3,
         "name": "Indian Journals",
         "autor": "Allen Ginsberg",
         "Price": 27,
-        "img":"https://i.pinimg.com/originals/c1/60/97/c16097d64ebad953462e73d304fd2441.jpg"
-        
+        "img":"https://i.pinimg.com/originals/c1/60/97/c16097d64ebad953462e73d304fd2441.jpg",
+        "quanty": 1
     },
 
     {
@@ -30,7 +30,7 @@
         "name": "Piense y Hagase Rico",
         "autor": "Napoleon Hill",
         "Price": 34,
-        "img":"https://mlstaticquic-a.akamaihd.net/libro-piense-y-hagase-rico-napoleon-hill-D_NQ_NP_917745-MLU25960616576_092017-F.jpg"
-        
+        "img":"https://mlstaticquic-a.akamaihd.net/libro-piense-y-hagase-rico-napoleon-hill-D_NQ_NP_917745-MLU25960616576_092017-F.jpg",
+        "quanty": 1
     }
 ]

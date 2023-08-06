@@ -14,3 +14,28 @@
 .cartTotal {
     text-align: center;
 }
+
+.counter-buttom {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cart-delete-buttom {
+    cursor: pointer;
+}
+
+.empty-message{
+    text-align: center;
+}
+
+.cart-counter {
+    position: absolute;
+    top: 7px;
+    right: 2px;
+    background-color: red; /* Color de fondo */
+    color: white; /* Color del texto */
+    border-radius: 50%; /* Bordes redondeados para crear un círculo */
+    padding: 5px 10px; /* Espaciado interno */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5); /* Sombra */
+    font-size: 14px; /* Tamaño de fuente */
+  }
